@@ -1,0 +1,1 @@
+The data in this folder was downloaded from [dohliam/more-stoplist](https://github.com/dohliam/more-stoplists) GitHub repository. Their repository also includes various other languages' lists of stopwords.
