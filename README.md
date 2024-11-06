@@ -43,3 +43,6 @@ This project was completed using the GPU T4 environment provided by [Kaggle](kag
 9. Turn on the GPU T4 x2 accelerator from the panel on the right.
 10. Have fun!
 
+---
+
+Detailed documentation for each function can be found in the notebook file.
