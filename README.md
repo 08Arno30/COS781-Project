@@ -45,4 +45,4 @@ This project was completed using the GPU T4 environment provided by [Kaggle](kag
 
 ---
 
-Detailed documentation for each function can be found in the notebook file.
+#### Detailed documentation for each function can be found in the notebook file.
