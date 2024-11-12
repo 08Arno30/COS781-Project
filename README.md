@@ -34,7 +34,7 @@ This project was completed using the GPU T4 environment provided by [Kaggle](kag
 3. Download this project's notebook located in the `src` folder.
 4. Import the downloaded notebook into your newly created notebook.
 5. Download this project's data files located in the `data` folder.
-6. In Kaggle, use the open (if not already opened) the panel on the right to upload a new dataset (`Input` -> `Upload` -> `New Dataset`).
+6. In Kaggle, open (if not already opened) the panel on the right to upload a new dataset (`Input` -> `Upload` -> `New Dataset`).
 7. Upload the downloaded data files separately:
 
    7.1 Uploading `swahili-stopwords`: open the downloaded folder and drag and drop all the files into Kaggle and name the new dataset `swahili-stopwords`. It is important to not drag and drop the folder but all the files, since this will cause problems with the file paths used in the notebook.
