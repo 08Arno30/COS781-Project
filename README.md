@@ -43,6 +43,23 @@ This project was completed using the GPU T4 environment provided by [Kaggle](kag
 9. Turn on the GPU T4 x2 accelerator from the panel on the right.
 10. Have fun!
 
+#### Note: A ZIP file is also available for download. The ZIP file contains all contents of this project's repository.
 ---
 
 #### Detailed documentation for each function can be found in the notebook file.
+
+---
+#### Citation for publicly available dataset
+
+```bibtex
+@data{DVN/XSGIKR_2023,
+author = {Babirye, Claire and Tusubira, Jeremy and Mukiibi, Jonathan and Nakatumba-Nabende, Joyce and Katumba, Andrew},
+publisher = {Harvard Dataverse},
+title = {{Sentiment Tagged Parallel Corpus for Luganda and Swahili}},
+UNF = {UNF:6:90lmKYLNv/Au3PeL8ZI2NQ==},
+year = {2023},
+version = {V1},
+doi = {10.7910/DVN/XSGIKR},
+url = {https://doi.org/10.7910/DVN/XSGIKR}
+}
+```
